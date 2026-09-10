@@ -29,7 +29,9 @@ https://github.com/user-attachments/assets/d0565d7d-ba6e-40ce-81b7-88d82eb0ed36
   - GitHub Pages 배포
 
 ---
+## 프로젝트 상세 소개
 
+프로젝트의 구조와 주요 구현 과정을 발표 자료로 정리했습니다.
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/266a063c-318d-4434-ac8f-f4ec6cd70321" />
 <img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/aec0264d-409a-46ad-a08a-463202e36937" />
 <img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/da50116d-da71-486c-ac78-10fbc14f28f7" />
