@@ -6,8 +6,8 @@ React를 활용해 AROUND 매거진의 메인 페이지와 기사 상세 페이�
 기사마다 서로 다른 본문 구조를 데이터로 정리하고 하나의 공통 컴포넌트에서 렌더링할 수 있도록 설계했습니다.
 
 또한 동적 라우팅, 반응형 UI, 메뉴 및 슬라이더 인터랙션을 구현하고 GitHub Pages를 통해 실제 웹사이트로 배포했습니다.
-link: https://su4228-prog.github.io/0907_002/
 
+link: https://su4228-prog.github.io/0907_002/
 
 https://github.com/user-attachments/assets/d0565d7d-ba6e-40ce-81b7-88d82eb0ed36
 
