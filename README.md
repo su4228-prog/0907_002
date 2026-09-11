@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/d0565d7d-ba6e-40ce-81b7-88d82eb0ed36
 ## 프로젝트 상세 소개
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/e9c5c35f-a084-4aaf-ab67-b54d2c707f20" />
 <img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/ced949ed-7326-4c42-8b10-5c06f37924c6" />
-<img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/518c0f45-2c6c-4f26-afb4-35944e00c54c" />
+<img width="1280" height="720" alt="AROUND_매거진_클론_프로젝트_260911" src="https://github.com/user-attachments/assets/64a38de2-5672-4979-87f4-7e4ac7b18084" />
 <img width="1280" height="720" alt="슬라이드4" src="https://github.com/user-attachments/assets/ec0abce7-1eb9-4682-9177-46aa5f00905e" />
 <img width="1280" height="720" alt="슬라이드5" src="https://github.com/user-attachments/assets/c72dff58-0b83-446d-ab79-2deb1b382976" />
 <img width="1280" height="720" alt="슬라이드6" src="https://github.com/user-attachments/assets/23cd6eee-2a00-4529-ab0c-04b9127d01d6" />
