@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/d0565d7d-ba6e-40ce-81b7-88d82eb0ed36
 ---
 ## 프로젝트 상세 소개
 <img width="1280" height="720" alt="슬라이드1" src="https://github.com/user-attachments/assets/e9c5c35f-a084-4aaf-ab67-b54d2c707f20" />
-<img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/5068cee1-0707-42fc-ad89-d646d9bc1cc9" />
+<img width="1280" height="720" alt="슬라이드2" src="https://github.com/user-attachments/assets/ced949ed-7326-4c42-8b10-5c06f37924c6" />
 <img width="1280" height="720" alt="슬라이드3" src="https://github.com/user-attachments/assets/518c0f45-2c6c-4f26-afb4-35944e00c54c" />
 <img width="1280" height="720" alt="슬라이드4" src="https://github.com/user-attachments/assets/ec0abce7-1eb9-4682-9177-46aa5f00905e" />
 <img width="1280" height="720" alt="슬라이드5" src="https://github.com/user-attachments/assets/c72dff58-0b83-446d-ab79-2deb1b382976" />
@@ -42,8 +42,13 @@ https://github.com/user-attachments/assets/d0565d7d-ba6e-40ce-81b7-88d82eb0ed36
 <img width="1280" height="720" alt="슬라이드9" src="https://github.com/user-attachments/assets/b8997140-606c-4cf0-b76b-2eddd65e4a2d" />
 <img width="1280" height="720" alt="슬라이드10" src="https://github.com/user-attachments/assets/d992440f-103f-4a0c-9bba-d4b7d5ed6c01" />
 <img width="1280" height="720" alt="슬라이드11" src="https://github.com/user-attachments/assets/cc206adc-0123-4f07-9dbe-aa1b403671b9" />
-<img width="1280" height="720" alt="슬라이드12" src="https://github.com/user-attachments/assets/18193dff-b4a7-488f-957a-4a5ff6116867" />
-<img width="1280" height="720" alt="슬라이드13" src="https://github.com/user-attachments/assets/d4987539-f2fc-4225-997e-0c8a69b22267" />
-<img width="1280" height="720" alt="슬라이드14" src="https://github.com/user-attachments/assets/0c67e86e-b6d7-4ee0-a79a-d2c55d8d01fe" />
-<img width="1280" height="720" alt="슬라이드15" src="https://github.com/user-attachments/assets/30a2a823-cfff-4f2b-a977-ed119339a023" />
+<img width="1280" height="720" alt="슬라이드12" src="https://github.com/user-attachments/assets/bde64567-b4ec-4650-851f-9e6e85530edc" />
+<img width="1280" height="720" alt="슬라이드13" src="https://github.com/user-attachments/assets/2da244e8-86a0-4132-b3d3-1566134e2798" />
+<img width="1280" height="720" alt="슬라이드14" src="https://github.com/user-attachments/assets/6effe721-4e8e-4283-ac4e-06b3aef80e8c" />
+<img width="1280" height="720" alt="슬라이드15" src="https://github.com/user-attachments/assets/042c32f8-0d38-4925-9d67-f87d026a12dd" />
+<img width="1280" height="720" alt="슬라이드16" src="https://github.com/user-attachments/assets/9940a2f7-94cb-4c8b-841a-0057272ac964" />
+<img width="1280" height="720" alt="슬라이드17" src="https://github.com/user-attachments/assets/67b0db79-d87d-41c1-957a-acdab675e8b6" />
+
+
+
 
