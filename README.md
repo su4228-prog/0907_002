@@ -9,6 +9,9 @@ React를 활용해 AROUND 매거진의 메인 페이지와 기사 상세 페이�
 
 link: https://su4228-prog.github.io/0907_002/
 
+ppt 다운로드: [AROUND 매거진 클론 프로젝트.pdf](https://github.com/user-attachments/files/32239335/AROUND.pdf)
+
+
 https://github.com/user-attachments/assets/d0565d7d-ba6e-40ce-81b7-88d82eb0ed36
 
 
